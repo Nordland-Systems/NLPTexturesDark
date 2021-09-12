@@ -1,0 +1,9 @@
+Link: http://minecraft.novaskin.me/#
+
+POSE
+Body:
+35
+15
+0
+
+Skinupload: https://mineskin.org/

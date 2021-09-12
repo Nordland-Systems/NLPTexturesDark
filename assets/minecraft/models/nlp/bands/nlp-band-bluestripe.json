@@ -1,0 +1,7 @@
+{
+   "parent": "nlp/bands/nlp-band-template",
+    "textures": {
+		"0": "nlp/bands/nlp-band-bluestripe",
+		"particle": "nlp/bands/nlp-band-bluestripe"
+     }
+}

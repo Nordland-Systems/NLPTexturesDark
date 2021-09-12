@@ -1,0 +1,13 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/snowball"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"item/throwables/cannonball"},
+	{"predicate":{"custom_model_data":2},"model":"item/throwables/brick"}
+	
+  ]
+}

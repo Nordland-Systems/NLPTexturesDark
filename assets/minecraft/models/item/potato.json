@@ -1,0 +1,37 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/potato"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/food/baumstriezel"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/food/brezel"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/food/burger1"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/food/burger2"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/food/churros"},
+	{"predicate":{"custom_model_data":6},"model":"nlp/food/cookie"},
+	{"predicate":{"custom_model_data":7},"model":"nlp/food/croissant"},
+	{"predicate":{"custom_model_data":8},"model":"nlp/food/currywurst"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/food/donut"},
+	{"predicate":{"custom_model_data":10},"model":"nlp/food/donut2"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/food/eis"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/food/hotdog"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/food/nachos"},
+	{"predicate":{"custom_model_data":14},"model":"nlp/food/nuggets"},
+	{"predicate":{"custom_model_data":15},"model":"nlp/food/oreo"},
+	{"predicate":{"custom_model_data":16},"model":"nlp/food/pizza1"},
+	{"predicate":{"custom_model_data":17},"model":"nlp/food/pizza2"},
+	{"predicate":{"custom_model_data":18},"model":"nlp/food/pommes"},
+	{"predicate":{"custom_model_data":19},"model":"nlp/food/salat"},
+	{"predicate":{"custom_model_data":20},"model":"nlp/food/schnitzel"},
+	{"predicate":{"custom_model_data":21},"model":"nlp/food/schokokuchen"},
+	{"predicate":{"custom_model_data":22},"model":"nlp/food/spaghetti"},
+	{"predicate":{"custom_model_data":23},"model":"nlp/food/taco"},
+	{"predicate":{"custom_model_data":24},"model":"nlp/food/waffel"},
+	{"predicate":{"custom_model_data":25},"model":"nlp/food/wrap"},
+	{"predicate":{"custom_model_data":26},"model":"nlp/food/zuckerwatte"},
+	{"predicate":{"custom_model_data":27},"model":"nlp/placeholder"}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+   "parent": "nlp/bands/nlp-band-template",
+    "textures": {
+		"0": "nlp/bands/nlp-band-standard",
+		"particle": "nlp/bands/nlp-band-standard"
+     }
+}

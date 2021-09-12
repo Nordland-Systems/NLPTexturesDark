@@ -1,0 +1,49 @@
+{
+	"credit": "Steven Paw",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "nlp/blocks/barrier_tape",
+		"particle": "nlp/blocks/barrier_tape"
+	},
+	"elements": [
+		{
+			"name": "pole",
+			"from": [7, 0, 7],
+			"to": [9, 13, 9],
+			"faces": {
+				"north": {"uv": [13, 1, 14, 7.5], "texture": "#0"},
+				"east": {"uv": [12, 1, 13, 7.5], "texture": "#0"},
+				"south": {"uv": [15, 1, 16, 7.5], "texture": "#0"},
+				"west": {"uv": [14, 1, 15, 7.5], "texture": "#0"},
+				"up": {"uv": [14, 1, 13, 0], "texture": "#0"},
+				"down": {"uv": [15, 0, 14, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Halter1",
+			"from": [6, 11, 7.5],
+			"to": [10, 12, 8.5],
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 2.5, 1], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 0.5, 1], "texture": "#0"},
+				"south": {"uv": [3, 0.5, 5, 1], "texture": "#0"},
+				"west": {"uv": [2.5, 0.5, 3, 1], "texture": "#0"},
+				"up": {"uv": [2.5, 0.5, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [4.5, 0, 2.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Halter2",
+			"from": [7.5, 11, 6],
+			"to": [8.5, 12, 10],
+			"faces": {
+				"north": {"uv": [2, 2, 2.5, 2.5], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 2.5], "texture": "#0"},
+				"south": {"uv": [4.5, 2, 5, 2.5], "texture": "#0"},
+				"west": {"uv": [2.5, 2, 4.5, 2.5], "texture": "#0"},
+				"up": {"uv": [2.5, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [3, 0, 2.5, 2], "texture": "#0"}
+			}
+		}
+	]
+}

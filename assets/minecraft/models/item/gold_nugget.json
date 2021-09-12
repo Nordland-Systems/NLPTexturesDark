@@ -1,0 +1,21 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/gold_nugget"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/coin"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/blocks/nlp-automat-top-off"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/blocks/nlp-automat-top-off-animated"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/blocks/nlp-automat-top"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/blocks/nlp-automat-top-animated"},
+	{"predicate":{"custom_model_data":6},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":7},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":8},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":10},"model":"nlp/blocks/nlp-automat-bottom"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/placeholder"}
+  ]
+}

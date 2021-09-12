@@ -1,0 +1,40 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/iron_ingot"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/gui/back"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/gui/inventory"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/gui/locations"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/gui/menu"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/gui/build"},
+	{"predicate":{"custom_model_data":6},"model":"nlp/gui/audio"},
+	{"predicate":{"custom_model_data":7},"model":"nlp/gui/audiohint"},
+	{"predicate":{"custom_model_data":8},"model":"nlp/gui/achievements"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/gui/vip"},
+	{"predicate":{"custom_model_data":10},"model":"nlp/gui/viponly"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/gui/wip"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/gui/standardbutton"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/gui/plus"},
+	{"predicate":{"custom_model_data":14},"model":"nlp/gui/minus"},
+	{"predicate":{"custom_model_data":15},"model":"nlp/gui/vipdiamond"},
+	{"predicate":{"custom_model_data":16},"model":"nlp/gui/save"},
+	{"predicate":{"custom_model_data":17},"model":"nlp/gui/tag"},
+	{"predicate":{"custom_model_data":18},"model":"nlp/gui/close"},
+	{"predicate":{"custom_model_data":19},"model":"nlp/gui/news"},
+	{"predicate":{"custom_model_data":20},"model":"nlp/gui/number0"},
+	{"predicate":{"custom_model_data":21},"model":"nlp/gui/number1"},
+	{"predicate":{"custom_model_data":22},"model":"nlp/gui/number2"},
+	{"predicate":{"custom_model_data":23},"model":"nlp/gui/number3"},
+	{"predicate":{"custom_model_data":24},"model":"nlp/gui/number4"},
+	{"predicate":{"custom_model_data":25},"model":"nlp/gui/number5"},
+	{"predicate":{"custom_model_data":26},"model":"nlp/gui/number6"},
+	{"predicate":{"custom_model_data":27},"model":"nlp/gui/number7"},
+	{"predicate":{"custom_model_data":28},"model":"nlp/gui/number8"},
+	{"predicate":{"custom_model_data":29},"model":"nlp/gui/number9"},
+	{"predicate":{"custom_model_data":30},"model":"nlp/placeholder"}
+  ]
+}

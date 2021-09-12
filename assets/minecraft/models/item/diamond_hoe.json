@@ -1,0 +1,31 @@
+{
+  "parent":"item/handheld","textures":
+  {
+    "layer0":"item/diamond_hoe"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/hats/cap-placeholder"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/hats/nlp-cap-interact"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/hats/nlp-cap-magic"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/hats/nlp-cap-technic"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/hats/nlp-cap-alpha"},
+	{"predicate":{"custom_model_data":6},"model":"nlp/hats/nlp-cap-creative"},
+	{"predicate":{"custom_model_data":7},"model":"nlp/hats/nlp-cap-leitung"},
+	{"predicate":{"custom_model_data":8},"model":"nlp/hats/zylinder"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/hats/cyberhead"},
+	{"predicate":{"custom_model_data":10},"model":"nlp/hats/christmas_hat"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/hats/rabbit_ears"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/hats/headphones"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/hats/heiligenschein"},
+	{"predicate":{"custom_model_data":14},"model":"nlp/hats/devilhorns"},
+	{"predicate":{"custom_model_data":15},"model":"nlp/hats/kitchenchef"},
+	{"predicate":{"custom_model_data":16},"model":"nlp/hats/zaubererhut"},
+	{"predicate":{"custom_model_data":17},"model":"nlp/hats/papiertute"},
+	{"predicate":{"custom_model_data":18},"model":"nlp/hats/einhorn"},
+	{"predicate":{"custom_model_data":19},"model":"nlp/hats/cowboy"},
+	{"predicate":{"custom_model_data":20},"model":"nlp/hats/gianthat"},
+	{"predicate":{"custom_model_data":21},"model":"nlp/placeholder"}
+  ]
+}

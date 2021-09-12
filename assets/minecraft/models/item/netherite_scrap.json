@@ -1,0 +1,23 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/netherite_scrap"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/bands/nlp-band-template"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/bands/nlp-band-standard"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/bands/nlp-band-red"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/bands/nlp-band-green"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/bands/nlp-band-violet"},
+	{"predicate":{"custom_model_data":6},"model":"nlp/bands/nlp-band-yellow"},
+	{"predicate":{"custom_model_data":7},"model":"nlp/bands/nlp-band-blue"},
+	{"predicate":{"custom_model_data":8},"model":"nlp/bands/nlp-band-orange"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/bands/nlp-band-bluestripe"},
+	{"predicate":{"custom_model_data":10},"model":"nlp/bands/nlp-band-redstripe"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/bands/nlp-band-foxy"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/bands/nlp-band-steven"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/placeholder"}
+  ]
+}
