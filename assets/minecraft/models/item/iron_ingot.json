@@ -35,6 +35,10 @@
 	{"predicate":{"custom_model_data":27},"model":"nlp/gui/number7"},
 	{"predicate":{"custom_model_data":28},"model":"nlp/gui/number8"},
 	{"predicate":{"custom_model_data":29},"model":"nlp/gui/number9"},
-	{"predicate":{"custom_model_data":30},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":30},"model":"nlp/gui/language"},
+	{"predicate":{"custom_model_data":31},"model":"nlp/gui/settings"},
+	{"predicate":{"custom_model_data":32},"model":"nlp/gui/players"},
+	{"predicate":{"custom_model_data":33},"model":"nlp/gui/darkmode"},
+	{"predicate":{"custom_model_data":34},"model":"nlp/placeholder"}
   ]
 }
