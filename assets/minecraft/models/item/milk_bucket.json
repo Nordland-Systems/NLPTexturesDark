@@ -6,11 +6,11 @@
 	
   "overrides":[
 	
-	{"predicate":{"custom_model_data":1},"model":"item/nlp/drink/almdudler"},
-	{"predicate":{"custom_model_data":2},"model":"item/nlp/drink/cocacola"},
-	{"predicate":{"custom_model_data":3},"model":"item/nlp/drink/fanta"},
-	{"predicate":{"custom_model_data":4},"model":"item/nlp/drink/slushieblau"},
-	{"predicate":{"custom_model_data":5},"model":"item/nlp/drink/sprite"}
+	{"predicate":{"custom_model_data":1},"model":"nlp/drink/almdudler"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/drink/cocacola"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/drink/fanta"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/drink/slushieblau"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/drink/sprite"}
 	  
   ]
 }

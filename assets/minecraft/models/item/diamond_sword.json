@@ -152,7 +152,7 @@
     {"predicate":{"custom_model_data":144},"model":"item/misc/placeholder"},
     {"predicate":{"custom_model_data":145},"model":"item/karts/scooter"},
     {"predicate":{"custom_model_data":146},"model":"item/karts/bee"},
-    {"predicate":{"custom_model_data":147},"model":"item/misc/placeholder"}
+    {"predicate":{"custom_model_data":147},"model":"nlp/placeholder"}
   
   ]
 }
