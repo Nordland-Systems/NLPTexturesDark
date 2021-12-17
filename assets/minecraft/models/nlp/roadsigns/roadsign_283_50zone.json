@@ -1,0 +1,6 @@
+{
+	"parent": "nlp/roadsigns/roadsign_large",
+	"textures": {
+		"1": "nlp/roadsigns/roadsign_283_50zone"
+	}
+}
