@@ -1,0 +1,21 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/nether_brick"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/monitors/monitor_empty"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/monitors/monitor_empty"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/monitors/monitor_empty"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/monitors/monitor_touchscreen_bottom"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/monitors/monitor_touchscreen_nlp"},
+	{"predicate":{"custom_model_data":6},"model":"nlp/monitors/monitor_counter_off"},
+	{"predicate":{"custom_model_data":7},"model":"nlp/monitors/monitor_counter_off"},
+	{"predicate":{"custom_model_data":8},"model":"nlp/monitors/monitor_counter_off"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/monitors/monitor_counter_off"},
+	
+	{"predicate":{"custom_model_data":10},"model":"nlp/placeholder"}
+  ]
+}
