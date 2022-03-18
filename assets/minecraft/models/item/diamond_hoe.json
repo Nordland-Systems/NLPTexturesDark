@@ -5,7 +5,6 @@
   },
   
   "overrides":[
-  
 	{"predicate":{"custom_model_data":1},"model":"nlp/hats/cap-placeholder"},
 	{"predicate":{"custom_model_data":2},"model":"nlp/hats/nlp-cap-interact"},
 	{"predicate":{"custom_model_data":3},"model":"nlp/hats/nlp-cap-magic"},

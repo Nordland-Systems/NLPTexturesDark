@@ -1,0 +1,6 @@
+{
+"parent": "nlp/roadsigns/roadsign",
+	"textures": {
+		"1": "nlp/roadsigns/roadsign_123"
+	}
+}
