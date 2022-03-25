@@ -19,7 +19,7 @@
 	{"predicate":{"custom_model_data":11},"model":"nlp/roadsigns/roadsign_121"},
 	{"predicate":{"custom_model_data":12},"model":"nlp/roadsigns/roadsign_125"},
 	{"predicate":{"custom_model_data":13},"model":"nlp/roadsigns/roadsign_133"},
-	{"predicate":{"custom_model_data":14},"model":"nlp/roadsigns/roadsign_138"},
+	{"predicate":{"custom_model_data":14},"model":"nlp/roadsigns/roadsign_138_10"},
 	{"predicate":{"custom_model_data":15},"model":"nlp/roadsigns/roadsign_205"},
 	{"predicate":{"custom_model_data":16},"model":"nlp/roadsigns/roadsign_206"},
 	{"predicate":{"custom_model_data":17},"model":"nlp/roadsigns/roadsign_208"},
@@ -91,7 +91,30 @@
 	{"predicate":{"custom_model_data":83},"model":"nlp/roadsigns/roadsign_1004_30"},
 	{"predicate":{"custom_model_data":84},"model":"nlp/roadsigns/roadsign_1053_37"},
 	{"predicate":{"custom_model_data":85},"model":"nlp/roadsigns/roadsign_1060_31"},
+	{"predicate":{"custom_model_data":86},"model":"nlp/roadsigns/roadsign_101_10"},
+	{"predicate":{"custom_model_data":87},"model":"nlp/roadsigns/roadsign_101_51"},
+	{"predicate":{"custom_model_data":88},"model":"nlp/roadsigns/roadsign_123"},
+	{"predicate":{"custom_model_data":89},"model":"nlp/roadsigns/roadsign_138_20"},
+	{"predicate":{"custom_model_data":90},"model":"nlp/roadsigns/roadsign_151"},
+	{"predicate":{"custom_model_data":91},"model":"nlp/roadsigns/roadsign_224"},
+	{"predicate":{"custom_model_data":92},"model":"nlp/roadsigns/roadsign_239"},
+	{"predicate":{"custom_model_data":93},"model":"nlp/roadsigns/roadsign_240"},
+	{"predicate":{"custom_model_data":94},"model":"nlp/roadsigns/roadsign_307"},
+
+	{"predicate":{"custom_model_data":95},"model":"nlp/roadsigns/roadsign_1044_10"},
+	{"predicate":{"custom_model_data":96},"model":"nlp/roadsigns/roadsign_283_10"},
+	{"predicate":{"custom_model_data":97},"model":"nlp/roadsigns/roadsign_283_20"},
+	{"predicate":{"custom_model_data":98},"model":"nlp/roadsigns/roadsign_283_30"},
+	{"predicate":{"custom_model_data":99},"model":"nlp/roadsigns/roadsign_283_40"},
+	{"predicate":{"custom_model_data":100},"model":"nlp/roadsigns/roadsign_283_60"},
+	{"predicate":{"custom_model_data":101},"model":"nlp/roadsigns/roadsign_283_70"},
+	{"predicate":{"custom_model_data":102},"model":"nlp/roadsigns/roadsign_286_10"},
+	{"predicate":{"custom_model_data":103},"model":"nlp/roadsigns/roadsign_286_20"},
+	{"predicate":{"custom_model_data":104},"model":"nlp/roadsigns/roadsign_286_30"},
+	{"predicate":{"custom_model_data":105},"model":"nlp/roadsigns/roadsign_286_40"},
+	{"predicate":{"custom_model_data":106},"model":"nlp/roadsigns/roadsign_286_60"},
+	{"predicate":{"custom_model_data":107},"model":"nlp/roadsigns/roadsign_286_70"},
 	
-	{"predicate":{"custom_model_data":86},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":108},"model":"nlp/placeholder"}
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "parent":"item/generated","textures":
+  {
+    "layer0":"item/amethyst_shard"
+  },
+  
+  "overrides":[
+    
+	{"predicate":{"custom_model_data":1},"model":"nlp/blocks/truss_bar"},
+	{"predicate":{"custom_model_data":2},"model":"nlp/blocks/par_lights/par_light1"},
+	{"predicate":{"custom_model_data":3},"model":"nlp/blocks/par_lights/par_light2"},
+	{"predicate":{"custom_model_data":4},"model":"nlp/blocks/par_lights/par_light3"},
+	{"predicate":{"custom_model_data":5},"model":"nlp/blocks/par_lights/par_light4"},
+	{"predicate":{"custom_model_data":6},"model":"nlp/blocks/par_lights/par_light5"},
+	{"predicate":{"custom_model_data":7},"model":"nlp/blocks/par_lights/par_light6"},
+	{"predicate":{"custom_model_data":8},"model":"nlp/blocks/par_lights/par_light7"},
+	{"predicate":{"custom_model_data":9},"model":"nlp/blocks/par_lights/par_light8"},
+	{"predicate":{"custom_model_data":10},"model":"nlp/blocks/par_lights/par_light9"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/blocks/par_lights/mirror_effect"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/blocks/par_lights/truss_beamer"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/blocks/par_lights/truss_speaker"},
+	{"predicate":{"custom_model_data":14},"model":"nlp/placeholder"}
+  ]
+}

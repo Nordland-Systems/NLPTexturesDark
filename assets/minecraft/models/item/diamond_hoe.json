@@ -1,9 +1,8 @@
 {
-  "parent":"item/handheld","textures":
-  {
+  "parent":"item/handheld",
+  "textures": {
     "layer0":"item/diamond_hoe"
   },
-  
   "overrides":[
 	{"predicate":{"custom_model_data":1},"model":"nlp/hats/cap-placeholder"},
 	{"predicate":{"custom_model_data":2},"model":"nlp/hats/nlp-cap-interact"},

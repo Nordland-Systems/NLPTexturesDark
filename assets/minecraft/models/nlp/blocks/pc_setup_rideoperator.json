@@ -1,0 +1,7 @@
+{
+	"parent": "nlp/blocks/pc_setup",
+	"textures": {
+		"0": "nlp/blocks/pc_setup_rideoperator",
+		"particle": "nlp/blocks/pc_setup_rideoperator"
+	}
+}

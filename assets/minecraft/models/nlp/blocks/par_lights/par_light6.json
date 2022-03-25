@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"parent": "nlp/blocks/par_lights/par_light1",
+	"textures": {
+		"0": "nlp/blocks/anschieber",
+		"1": "nlp/blocks/par_lights/par_light6",
+		"particle": "nlp/blocks/par_lights/par_light6"
+	}
+}

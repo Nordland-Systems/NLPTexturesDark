@@ -1,0 +1,6 @@
+{
+"parent": "nlp/monitors/monitor_touchscreen",
+	"textures": {
+		"0": "nlp/monitors/monitor_touchscreen_food"
+	}
+}

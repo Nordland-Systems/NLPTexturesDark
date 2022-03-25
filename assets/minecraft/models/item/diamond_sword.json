@@ -3,9 +3,7 @@
   {
     "layer0":"item/diamond_sword"
   },
-  
   "overrides":[
-  
     {"predicate":{"custom_model_data":1},"model":"item/ride/fenrir_front"},
     {"predicate":{"custom_model_data":2},"model":"item/ride/fenrir_normal"},
     {"predicate":{"custom_model_data":3},"model":"item/ride/rapid"},
@@ -20,7 +18,6 @@
     {"predicate":{"custom_model_data":12},"model":"nlp/placeholder"},
     {"predicate":{"custom_model_data":13},"model":"item/ride/boot_midden"},
     {"predicate":{"custom_model_data":14},"model":"item/ride/boot_buiten"},
-    {"predicate":{"custom_model_data":15},"model":"item/ride/boot_balk"},
     {"predicate":{"custom_model_data":16},"model":"item/ride/rapid_lift"},
     {"predicate":{"custom_model_data":17},"model":"item/ride/fenrir_normalback"},
     {"predicate":{"custom_model_data":18},"model":"item/ride/fenrir_normalfront"},
@@ -40,40 +37,6 @@
     {"predicate":{"custom_model_data":32},"model":"item/ride/soarin"},
     {"predicate":{"custom_model_data":33},"model":"item/ride/indy"},
     {"predicate":{"custom_model_data":36},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":38},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":39},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":40},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":41},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":42},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":43},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":44},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":45},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":46},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":47},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":48},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":49},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":50},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":51},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":52},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":53},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":54},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":55},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":56},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":57},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":58},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":59},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":60},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":61},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":62},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":63},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":64},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":65},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":66},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":67},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":68},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":69},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":70},"model":"nlp/placeholder"},
-    {"predicate":{"custom_model_data":71},"model":"nlp/placeholder"},
     {"predicate":{"custom_model_data":72},"model":"item/ride/eurobat_mid"},
     {"predicate":{"custom_model_data":73},"model":"item/ride/eurobat_front"},
     {"predicate":{"custom_model_data":78},"model":"item/ride/skyfoogle"},
@@ -126,6 +89,5 @@
     {"predicate":{"custom_model_data":142},"model":"nlp/placeholder"},
     {"predicate":{"custom_model_data":144},"model":"nlp/placeholder"},
     {"predicate":{"custom_model_data":147},"model":"nlp/placeholder"}
-  
   ]
 }
