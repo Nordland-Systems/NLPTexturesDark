@@ -1,0 +1,6 @@
+{
+"parent": "nlp/rides/carousel_horse",
+	"textures": {
+		"0": "nlp/rides/carousel_horse_lightbrown"
+	}
+}

@@ -18,6 +18,8 @@
 	{"predicate":{"custom_model_data":20},"model":"nlp/monitors/monitor_touchscreen_nlp"},
 	{"predicate":{"custom_model_data":21},"model":"nlp/monitors/monitor_touchscreen_mcdonalds"},
 	{"predicate":{"custom_model_data":22},"model":"nlp/monitors/monitor_touchscreen_food"},
-	{"predicate":{"custom_model_data":23},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":23},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":24},"model":"nlp/blocks/keypad"},
+	{"predicate":{"custom_model_data":25},"model":"nlp/placeholder"}
   ]
 }
