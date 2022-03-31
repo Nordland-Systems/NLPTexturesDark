@@ -19,6 +19,7 @@
 	{"predicate":{"custom_model_data":11},"model":"nlp/blocks/par_lights/mirror_effect"},
 	{"predicate":{"custom_model_data":12},"model":"nlp/blocks/par_lights/truss_beamer"},
 	{"predicate":{"custom_model_data":13},"model":"nlp/blocks/par_lights/truss_speaker"},
-	{"predicate":{"custom_model_data":14},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":14},"model":"nlp/blocks/par_lights/truss_beamer2"},
+	{"predicate":{"custom_model_data":15},"model":"nlp/placeholder"}
   ]
 }
