@@ -1,0 +1,6 @@
+{
+	"parent": "nlp/roadsigns/roadsign_trafficlight",
+	"textures": {
+		"1": "nlp/roadsigns/roadsign_trafficlight_green_people"
+	}
+}
