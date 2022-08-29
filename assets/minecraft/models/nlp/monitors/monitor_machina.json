@@ -1,0 +1,6 @@
+{
+"parent": "nlp/monitors/monitor",
+	"textures": {
+		"1": "nlp/monitors/monitor_machina"
+	}
+}

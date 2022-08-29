@@ -15,7 +15,9 @@
 	{"predicate":{"custom_model_data":7},"model":"nlp/monitors/monitor_counter_off"},
 	{"predicate":{"custom_model_data":8},"model":"nlp/monitors/monitor_counter_off"},
 	{"predicate":{"custom_model_data":9},"model":"nlp/monitors/monitor_counter_off"},
-	
-	{"predicate":{"custom_model_data":10},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":10},"model":"nlp/monitors/monitor_draugrsrevenge_off"},
+	{"predicate":{"custom_model_data":11},"model":"nlp/monitors/monitor_off"},
+	{"predicate":{"custom_model_data":12},"model":"nlp/monitors/monitor_off"},
+	{"predicate":{"custom_model_data":13},"model":"nlp/placeholder"}
   ]
 }
