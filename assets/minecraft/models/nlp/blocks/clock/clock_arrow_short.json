@@ -61,7 +61,7 @@
 			"scale": [2, 2, 2]
 		},
 		"fixed": {
-			"translation": [0, -32, 15],
+			"translation": [0, -32, 11],
 			"scale": [2, 2, 2]
 		}
 	}

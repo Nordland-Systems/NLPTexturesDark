@@ -26,6 +26,7 @@
 	{"predicate":{"custom_model_data":25},"model":"nlp/blocks/clock/clock_backface"},
 	{"predicate":{"custom_model_data":26},"model":"nlp/blocks/clock/clock_arrow_short"},
 	{"predicate":{"custom_model_data":27},"model":"nlp/blocks/clock/clock_arrow_long"},
-	{"predicate":{"custom_model_data":28},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":28},"model":"nlp/blocks/e_car_charger"},
+	{"predicate":{"custom_model_data":29},"model":"nlp/placeholder"}
   ]
 }
