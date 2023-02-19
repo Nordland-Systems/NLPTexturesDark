@@ -23,6 +23,9 @@
 	{"predicate":{"custom_model_data":22},"model":"nlp/monitors/monitor_touchscreen_food"},
 	{"predicate":{"custom_model_data":23},"model":"nlp/placeholder"},
 	{"predicate":{"custom_model_data":24},"model":"nlp/blocks/keypad"},
-	{"predicate":{"custom_model_data":25},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":25},"model":"nlp/blocks/clock/clock_backface"},
+	{"predicate":{"custom_model_data":26},"model":"nlp/blocks/clock/clock_arrow_short"},
+	{"predicate":{"custom_model_data":27},"model":"nlp/blocks/clock/clock_arrow_long"},
+	{"predicate":{"custom_model_data":28},"model":"nlp/placeholder"}
   ]
 }
