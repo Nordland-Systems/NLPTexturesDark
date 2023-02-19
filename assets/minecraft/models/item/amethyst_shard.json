@@ -20,6 +20,7 @@
 	{"predicate":{"custom_model_data":12},"model":"nlp/blocks/par_lights/truss_beamer"},
 	{"predicate":{"custom_model_data":13},"model":"nlp/blocks/par_lights/truss_speaker"},
 	{"predicate":{"custom_model_data":14},"model":"nlp/blocks/par_lights/truss_beamer2"},
-	{"predicate":{"custom_model_data":15},"model":"nlp/placeholder"}
+	{"predicate":{"custom_model_data":15},"model":"nlp/blocks/par_lights/truss_movinghead"},
+	{"predicate":{"custom_model_data":16},"model":"nlp/placeholder"}
   ]
 }
