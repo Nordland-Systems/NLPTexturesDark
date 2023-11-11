@@ -20,7 +20,7 @@
 	{"predicate":{"custom_model_data":12},"model":"nlp/blocks/cash_register2"},
 	{"predicate":{"custom_model_data":13},"model":"nlp/blocks/cash_register3"},
 	{"predicate":{"custom_model_data":14},"model":"nlp/blocks/bench"},
-	{"predicate":{"custom_model_data":15},"model":"nlp/placeholder"},
+	{"predicate":{"custom_model_data":15},"model":"nlp/blocks/securitycam"},
 	{"predicate":{"custom_model_data":16},"model":"nlp/placeholder"},
 	{"predicate":{"custom_model_data":17},"model":"nlp/blocks/card_reader"},
 	{"predicate":{"custom_model_data":18},"model":"nlp/blocks/pc_setup"},
